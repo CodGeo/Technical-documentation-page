@@ -3,6 +3,7 @@
 }
 
 html, body {
+  scroll-behavior: smooth;
   min-width: 290px;
   color: #333;
   background-color: #f6f6f6;
